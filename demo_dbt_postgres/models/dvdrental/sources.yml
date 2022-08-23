@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: dvdrental
+    tables:
+      - name: rental
+      - name: customer
+      - name: payment
+      - name: film_category
+      - name: film
+      - name: inventory
+      - name: country
+      - name: city
+      - name: address
